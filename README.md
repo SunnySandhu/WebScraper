@@ -2,8 +2,8 @@
 A simple command line WebScraper to find GPU prices on NewEgg
 
 ## Dependencies
-*Python 3.x
-*BeautifulSoup4 (BS4)
+* Python 3.x
+* BeautifulSoup4 (BS4)
 
 Install BS4 with [pip](https://pypi.python.org/pypi/pip)
 ```
